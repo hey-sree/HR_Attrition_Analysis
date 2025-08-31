@@ -24,7 +24,12 @@ The goal is to identify key drivers of attrition and provide actionable insights
 ## 📊 Dashboard Highlights
 - **KPIs:** Headcount, Attrition count, Attrition rate  
 - **Visuals:** Attrition by department, job role, gender, overtime, distance, and performance factors  
-- **Filters:** Department, Job role, Education  
+- **Filters:** Department, Job role, Education
+
+   📊 Power BI Dashboard
+Here’s a snapshot of the interactive dashboard:
+![Dashboard](https://github.com/user-attachments/assets/08fc9801-19b8-4c41-83b4-3b1a77db62f7)
+
 
 ## 🚀 Business Insights
 - Sales and HR departments face the highest attrition.  
